@@ -98,19 +98,12 @@ AI-Driven-SDN-Traffic-Engineering/
 ├── run_experiments.py
 ├── dashboard_network_helper.py
 ├── gnn_live_predictor.py
-│
-├── traffic_forecaster_v2.joblib
-├── experiment_results_ai.csv
-├── experiment_results_baseline.csv
-│
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
 │
 └── screenshots/
 ```
-
-Note: The exact model artifacts and supporting files depend on the configuration used in the project. Include all files required by the Python imports and model-loading code.
 
 ## Installation and Setup
 
