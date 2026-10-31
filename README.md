@@ -237,23 +237,6 @@ These files can be used to:
 
 The dashboard provides a visual interface for observing the emulated SDN network.
 
-Add screenshots of your actual running dashboard in the `screenshots/` directory.
-
-Example:
-
-```text
-screenshots/
-├── dashboard.png
-├── topology.png
-└── experiment_results.png
-```
-
-You can display a screenshot here by adding:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
 ## Limitations
 
 - The framework is evaluated in an emulated Mininet environment rather than a production network.
